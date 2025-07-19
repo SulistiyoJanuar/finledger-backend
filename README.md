@@ -31,7 +31,7 @@
 ## 📦 Instalasi & Setup
 
 ```bash
-git clone https://github.com/username/finledger.git
+git clone [https://github.com/SulistiyoJanuar/finledger-backend.git]
 cd finledger
 npm install
 cp .env.example .env

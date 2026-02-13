@@ -1,10 +1,10 @@
-# 🧾 FinLedger
+# FinLedger
 
-**FinLedger** adalah aplikasi backend sistem akuntansi modern berbasis REST API yang dibangun dengan **Express.js** dan **MySQL**, dirancang untuk menangani pencatatan keuangan seperti jurnal umum, buku besar, laporan laba rugi, neraca, hingga manajemen akun dan transaksi, dengan standar akuntansi ganda (double-entry bookkeeping).
+FinLedger adalah aplikasi backend sistem akuntansi modern berbasis REST API yang dibangun dengan Express.js dan MySQL, dirancang untuk menangani pencatatan keuangan seperti jurnal umum, buku besar, laporan laba rugi, neraca, hingga manajemen akun dan transaksi, dengan standar akuntansi ganda (double-entry bookkeeping).
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - ✅ Manajemen akun (akun aktiva, pasiva, modal, dll)
 - ✅ Input jurnal umum (debit/kredit)
@@ -16,19 +16,19 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Kategori       | Teknologi                              |
+| Kategori       | Teknologi                                |
 |----------------|------------------------------------------|
 | Backend        | Express.js                               |
 | Database       | MySQL + Prisma ORM                       |
-| Validasi       | Zod (dengan JavaScript, bukan TypeScript)|
+| Validasi       | Zod                                      |
 | Development    | Nodemon, dotenv, ESLint (opsional)       |
 | Struktur Folder| Modular MVC (routes, controller, service, prisma) |
 
 ---
 
-## 📦 Instalasi & Setup
+## Instalasi & Setup
 
 ```bash
 git clone [https://github.com/SulistiyoJanuar/finledger-backend.git]
